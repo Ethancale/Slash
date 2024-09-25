@@ -1,5 +1,5 @@
 <h1>What is the Microsoft Azure Fundamentals certification exam?</h1>
-The Microsoft Azure Fundamentals (AZ-900) exam is an entry-level certification designed for you if you have just started to familiarize yourself with Azure or the entire cloud computing world. <a href="https://www.certshero.com/microsoft">Microsoft AZ-900 certification</a> provides a general overview of the core cloud concepts, core Azure services, Azure architecture, and management and governance features. The course content is divided into three significant categories:
+The Microsoft Azure Fundamentals (AZ-900) exam is an entry-level certification designed for you if you have just started to familiarize yourself with Azure or the entire cloud computing world. <a href="https://www.certshero.com/microsoft">Microsoft Azure Fundamentals certification</a> provides a general overview of the core cloud concepts, core Azure services, Azure architecture, and management and governance features. The course content is divided into three significant categories:
 
 <ul>
 <li>Cloud concepts</li>
@@ -33,6 +33,6 @@ CertsHero is one of the best alternatives for studying for the Microsoft Azure F
 </ul>
 
 All the aforementioned is tailored to ensure that you get to choose the most compatible format for learning or studying. One of the best features of CertsHero is that they provide a bonus offer: if you purchase materials for PDF and web-based, you get the other one for desktop free of charge. The complete package of this material has everything needed to prepare for the exam. Furthermore, CertsHero will update the exam materials for you freely during your subscription period.  
-It will update you with updated information as well as <a href="https://www.certshero.com">Microsoft AZ-900 exam practice questions</a>. They also give a 20% discount on the study materials. Which is pocket-friendly to get good study notes for your Microsoft AZ-900 exam. CertHero also provides free test demos for you to take a sneak peek at the exam format and the types of questions. This blend of new materials, budget-friendly prices, and test practice demos in actual conditions indeed makes CertsHero the go-to place for exam preparation. 
+It will update you with updated information as well as <a href="https://www.certshero.com">Microsoft AZ-900 exam practice questions</a>.
 
 Visit CertsHero for more regarding all certifications materials, and start your journey to becoming an Azure professional today!
